@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LikeDislike</string>
+    <string name="hashtag">#</string>
+    <string name="call">call 0123456789</string>
+    <string name="dislike">dislike</string>
+    <string name="like">like</string>
+</resources>
